@@ -4,4 +4,4 @@ services:
   - docker
 
 install:
-  - docker built -t a .
+  - docker build -t a .
