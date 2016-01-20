@@ -3,5 +3,4 @@ language: generic
 services:
   - docker
 
-install:
-  - docker build -t a .
+script: docker build -t a .
