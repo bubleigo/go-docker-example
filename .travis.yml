@@ -2,3 +2,6 @@ language: generic
 
 services:
   - docker
+
+install:
+  - docker built -t a .
