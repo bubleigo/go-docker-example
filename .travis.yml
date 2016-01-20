@@ -1,7 +1,1 @@
-sudo: required
-
-services:
-  - docker
-
-install:
-  - docker build -t blog .
+sudo: false
