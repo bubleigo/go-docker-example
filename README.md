@@ -1,6 +1,3 @@
 # go-docker-exampledv
-e
-c
-c
-n
-b
+
+http://31.3.0.10:8080/job/b/badge/icon
